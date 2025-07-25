@@ -1,0 +1,9 @@
+[project]
+name = "pledge-for-progress"
+description = "A simple contract for transparently pledging funds to a public cause."
+authors = []
+telemetry = true
+requirements = []
+[contracts.pledge-for-progress]
+path = "contracts/pledge-for-progress.clar"
+depends_on = []
